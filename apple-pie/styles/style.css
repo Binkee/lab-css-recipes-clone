@@ -1,9 +1,11 @@
 h1 {
     background:url("../images/apple-pie.jpg") center no-repeat;  
     background-size: cover;
-    height: 600px;
+    height: 300px;
     text-align: center;
     color: white;
+    font-family: sans-serif;
+    padding-top: 120px;
    
 }
 
@@ -26,8 +28,7 @@ h1 {
 
 .text {
     text-align: center;
-   padding-right: 100px;
-    padding-left: 100px;
+    font-family: sans-serif;
 }
 
 .section-2 {
